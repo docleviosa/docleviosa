@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @docleviosa
+- 👋 Hi, I’m @docleviosa and I'm currently doing a vocational training as a applicationdeveloper.
 - 👀 I’m interested in developing scripts and building websites.
 - 🌱 I’m currently learning Python and php
 - 💞️ I’m looking to collaborate on ...
